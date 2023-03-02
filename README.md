@@ -20,7 +20,8 @@ If you so wanted to, you could reach out to me on my Discord, which is WavetecRR
 
 ## Do you have a website?
 
-I actually have multiple websites, but my main one is actually hosted on Google Sites. That is also linked on my GitHub profile
+I actually have multiple websites, but my main one is actually hosted on Google Sites. (https://sites.google.com/view/wavetecrr)
+
 
 ## Can I add you on Rec Room?
 
