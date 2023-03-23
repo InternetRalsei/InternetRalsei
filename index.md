@@ -1,6 +1,6 @@
 [<- return to home](https://wavetecrr/github.io)
 
-# Hey there!
+# Hey there! 👋
 
 My name is Thomas Hall, and I'm a 13 year old amateur programmer from England!
 
