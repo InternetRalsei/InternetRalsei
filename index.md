@@ -29,4 +29,8 @@ I actually have multiple websites, but my main one is actually hosted on Google 
 
 Yes, you can! https://rec.net/user/WavetecRR
 
+## Do you have Linktree?
+
+Yes I do! https://linktr.ee/waveteclife
+
 Anyway, thats all for now! Have a good one man!
