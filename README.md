@@ -31,4 +31,8 @@ Yes, you can! https://rec.net/user/WavetecRR
 
 Yes I do! https://linktr.ee/waveteclife
 
+## What phone do you use?
+
+This may come as a suprise to many, but I main a Spacetalk Adventurer, because my parents are rather worried about me getting lost. (understandable tbh)
+
 Anyway, thats all for now! Have a good one man!
