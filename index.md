@@ -17,8 +17,9 @@ My name is Thomas Hall, and I'm a 13 year old amateur programmer from England!
 - And just trying to be a help to society!
 
 ## Where can I reach you?
-
-If you so wanted to, you could reach out to me on my Discord, which is WavetecRR#9356! You can also follow my socials if you wanted to as well, which are on my GitHub Profile!
+- Discord: WavetecRR#9356 
+- WhatsApp: +447742828799 (also business mobile number)
+- Email: thoughtfuldolphin3583@outlook.com
 
 ## Do you have a website?
 
