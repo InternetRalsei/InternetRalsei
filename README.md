@@ -2,7 +2,7 @@
 
 My name is Thomas Hall, and I'm a 13 year old amateur programmer from England!
 
-## What languages do I use
+## My contributions to GitHub
 
 [![WavetecRR's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavetecrr)](https://github.com/anuraghazra/github-readme-stats)
 
