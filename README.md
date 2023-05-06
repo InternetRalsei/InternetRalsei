@@ -20,7 +20,7 @@ My name is Thomas Hall, and I'm a 13 year old amateur programmer from England!
 
 ## Where can I reach you?
 - Discord: WavetecRR#9356 
-- WhatsApp: +447742828799 (also business mobile number)
+- Number +447842378513
 - Email: thoughtfuldolphin3583@outlook.com
 
 ## Do you have a website?
@@ -34,9 +34,5 @@ Yes, you can! https://rec.net/user/WavetecRR
 ## Do you have Linktree?
 
 Yes I do! https://linktr.ee/waveteclife
-
-## What phone do you use?
-
-This may come as a suprise to many, but I main a Spacetalk Adventurer, because my parents are rather worried about me getting lost. (understandable tbh)
 
 Anyway, thats all for now! Have a good one man!
