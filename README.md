@@ -25,7 +25,7 @@ My name is Thomas Hall, and I'm a 13 year old amateur programmer from England!
 
 ## Do you have a website?
 
-I actually have multiple websites, but my main one is actually hosted on Google Sites. (https://sites.google.com/view/wavetecrr)
+Yes, I do! https://wavetecrr.github.io/
 
 ## Can I add you on Rec Room?
 
@@ -33,6 +33,6 @@ Yes, you can! https://rec.net/user/WavetecRR
 
 ## Do you have Linktree?
 
-Yes I do! https://linktr.ee/waveteclife
+Yes, I do! https://linktr.ee/waveteclife
 
 Anyway, thats all for now! Have a good one man!
