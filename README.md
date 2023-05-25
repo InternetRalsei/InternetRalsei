@@ -20,7 +20,6 @@ My name is Thomas Hall, and I'm a 13 year old amateur programmer from England!
 
 ## Where can I reach you?
 - Discord: WavetecRR#9356 
-- Number +447842378513
 - Email: thoughtfuldolphin3583@outlook.com
 
 ## Do you have a website?
@@ -35,4 +34,8 @@ Yes, you can! https://rec.net/user/WavetecRR
 
 Yes, I do! https://linktr.ee/waveteclife
 
-Anyway, thats all for now! Have a good one man!
+## What's your favourite meme?
+
+![THAT LOOKS LIKE IT WAS SHOT WITH A NOKIA!](https://wavetecrr.github.io/nokia.mp4)
+
+Anyway, thats all for now. Have a good one man!
