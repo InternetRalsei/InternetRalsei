@@ -36,7 +36,7 @@ Yes, I do! https://linktr.ee/waveteclife
 
 ## What's your favourite meme?
 
-That looks like it was shot with a Nokia!
+[That looks like it was shot with a Nokia!](/nokia.mp4)
 
 <video width="320" height="240" controls>
   <source src="https://wavetecrr.github.io/nokia.mp4" type="video/mp4">
