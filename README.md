@@ -36,6 +36,8 @@ Yes, I do! https://linktr.ee/waveteclife
 
 ## What's your favourite meme?
 
-![THAT LOOKS LIKE IT WAS SHOT WITH A NOKIA!](https://wavetecrr.github.io/nokia.mp4)
+<video width="320" height="240" controls>
+  <source src="wavetecrr.github.io/nokia.mp4" type="video/mp4">
+</video>
 
 Anyway, thats all for now. Have a good one man!
