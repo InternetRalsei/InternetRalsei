@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-My name is Thomas Hall, and I'm a 13 year old amateur programmer from England!
+My name is Thomas Hall, and I'm a 14 year old amateur programmer from England!
 
 ## My contributions to GitHub and my top programming languages
 
@@ -18,28 +18,33 @@ My name is Thomas Hall, and I'm a 13 year old amateur programmer from England!
 
 - And just trying to be a help to society!
 
+I also do trainspotting when I get the chance hehe
+
 ## Where can I reach you?
-- Discord: WavetecRR#9356 
-- Email: thoughtfuldolphin3583@outlook.com
+- Discord: WavetecRR#9356 (I also have a Discord server for the EastbridgeOS and CITV revival projects! [Join it here!](https://discord.gg/mwJNtDKDED))
+- Email: wavetecrr@outlook.com
 
-## Do you have a website?
 
-Yes, I do! https://wavetecrr.github.io/
+## My friends
+- [Toothpick](https://youtube.com/@2thpick)
+- [Olivers Tech](https://youtube.co.uk/@oliverstech)
+- [Turtlemelon Tech](https://youtube.co.uk/@turtlewatermelontech)
+- [WavetecRRdev/Impact Zone/Techtoker Redmi10](https://youtube.co.uk/@impactzone201)
+- [YellowWorld!](https://www.youtube.com/@Ylloow)
+- [HJGame](https://x.com/HariGill09)
 
-## Can I add you on Rec Room?
+## DO NOT INTERACT (inspired by Toothpick)
 
-Yes, you can! https://rec.net/user/WavetecRR
+Please do not message me/follow me on **ANY SOCIALS** if you are:
 
-## Do you have Linktree?
+- RCTA (Race Changed To Another)
+- a KOSA supporter
+- A homophobe
+- An Arriva bus driver (specifically those on Route 492)
+- Intending to piss me or my friends off
 
-Yes, I do! https://linktr.ee/waveteclife
+## My socials
 
-## What's your favourite meme?
-
-[That looks like it was shot with a Nokia!](https://wavetecrr.github.io/nokia.mp4)
-
-<video width="320" height="240" controls>
-  <source src="https://wavetecrr.github.io/nokia.mp4" type="video/mp4">
-</video>
+Check out all of my socials [here on my Linktree!](https://linktr.ee/waveteclife)
 
 Anyway, thats all for now. Have a good one man!
