@@ -21,7 +21,7 @@ My name is Thomas Hall, and I'm a 14 year old amateur programmer from England!
 I also do trainspotting when I get the chance hehe
 
 ## Where can I reach you?
-- Discord: WavetecRR#9356 (I also have a Discord server for the EastbridgeOS and CITV revival projects! [Join it here!](https://discord.gg/mwJNtDKDED))
+- Discord: WavetecRR#9356 (Please DM me if you wanna join my server!)
 - Email: wavetecrr@outlook.com
 
 
