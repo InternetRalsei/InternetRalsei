@@ -30,7 +30,7 @@ I also do trainspotting when I get the chance hehe
 - [Olivers Tech](https://youtube.co.uk/@oliverstech)
 - [Turtlemelon Tech](https://youtube.co.uk/@turtlewatermelontech)
 - [WavetecRRdev/Impact Zone/Techtoker Redmi10](https://youtube.co.uk/@impactzone201)
-- [YellowWorld!](https://www.youtube.com/@Ylloow)
+- [MRS](https://www.youtube.com/@ItsDaMRS)
 - [HJGame](https://x.com/HariGill09)
 
 ## DO NOT INTERACT (inspired by Toothpick)
