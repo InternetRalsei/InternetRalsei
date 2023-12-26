@@ -32,6 +32,7 @@ I also do trainspotting when I get the chance hehe
 - [WavetecRRdev/Impact Zone/Techtoker Redmi10](https://youtube.co.uk/@impactzone201)
 - [MRS, formerly YellowWorld](https://x.com/ItsDaMRS)
 - [HJGame](https://x.com/HariGill09)
+- [dvlnx](https://www.tiktok.com/@dvnlx.opnv?lang=en)
 
 ## DO NOT INTERACT (inspired by Toothpick)
 
