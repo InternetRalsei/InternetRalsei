@@ -4,7 +4,7 @@ My name is Thomas Hall, and I'm a 14 year old amateur programmer from England!
 
 ## My contributions to GitHub and my top programming languages
 
-[![WavetecRR's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavetecrr)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wavetecrr&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+[![WavetecRR's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifail2x)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifail2x&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My interests include: 
 
@@ -44,8 +44,4 @@ Please do not message me/follow me on **ANY SOCIALS** if you are:
 - An Arriva bus driver (specifically those on Route 492)
 - Intending to piss me or my friends off
 
-## My socials
-
-Check out all of my socials [here on my Linktree!](https://linktr.ee/waveteclife)
-
-Anyway, thats all for now. Have a good one man!
+Anyway, thats all for now. Have a good one
