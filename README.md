@@ -16,8 +16,8 @@ If you cant tell already, I'm still kinda new to this kinda stuff, so please don
 If you do wish to contact me, keep in mind that I use :3, <3, and :) often, and I try to keep my responses as short as possible. 
 If you need a full version of what I'm trying to say, ask me.
 
-Discord: i_fail2x
-Email: eastbridgedev3@icloud.com
+- Discord: i_fail2x
+- Email: eastbridgedev3@icloud.com
 
 # Languages I can speak
 
