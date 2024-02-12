@@ -1,1 +1,27 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=NewJohnstonLight&weight=100&size=19&duration=500&pause=500&multiline=true&random=false&width=1000&height=1000&lines=I'm+a+14+year+old+i-win+type+from+Dartford%2C+United+Kingdom!;That+somehow+knows+how+to+use+GitHub;I+have+many+interests%2C+most+of+them+consisting+of+public+transport%2C+editing%2C+computers%2C;+and+so+on+and+so+forth.+If+you+wanna+see+what+I+get+up+to%2C+just+follow+me!;Ok%2C+your+beginning+to+scare+me.+Please+leave+%3A(" alt="Typing SVG" /></a>
+# Hai!!
+
+I'm i-fail24, a 14y/o i-win type from Dartford, United Kingdom that knows how to write HTML code and make obamiumtech want shoot me.
+
+If you cant tell already, I'm still kinda new to this kinda stuff, so please don't question me if something is off.
+
+## My current interests
+
+- i-win
+- Trains
+- Buses
+- Computers
+
+## Contact
+
+If you do wish to contact me, keep in mind that I use :3, <3, and :) often, and I try to keep my responses as short as possible. 
+If you need a full version of what I'm trying to say, ask me.
+
+Discord: i_fail2x
+Email: eastbridgedev3@icloud.com
+
+# Languages I can speak
+
+English (UK)(Native): 100%
+German (DE): 25-30%
+
+That's about it! Thanks for reading!!
