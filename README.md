@@ -1,6 +1,6 @@
 # Hai!!
 
-I'm i-fail24, a 14y/o i-win type from Dartford, United Kingdom that knows how to write HTML code and make obamiumtech want shoot me.
+I'm SHDE (short for ShrinelinkDev), a 14y/o editor/gamer from Dartford, United Kingdom that knows how to write HTML code ~~and make obamiumtech want shoot me~~.
 
 If you cant tell already, I'm still kinda new to this kinda stuff, so please don't question me if something is off.
 
@@ -16,7 +16,7 @@ If you cant tell already, I'm still kinda new to this kinda stuff, so please don
 If you do wish to contact me, keep in mind that I use :3, <3, and :) often, and I try to keep my responses as short as possible. 
 If you need a full version of what I'm trying to say, ask me.
 
-- Discord: i_fail2x
+- Discord: shde24
 - Email: eastbridgedev3@icloud.com
 
 # Languages I can speak
