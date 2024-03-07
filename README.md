@@ -17,11 +17,14 @@ If you do wish to contact me, keep in mind that I use :3, <3, and :) often, and 
 If you need a full version of what I'm trying to say, ask me.
 
 - Discord: shde24
-- Email: eastbridgedev3@icloud.com
+- Email: shrinelinkdev@outlook.com
 
 # Languages I can speak
 
 English (UK)(Native): 100%
+
 German (DE): 25-30%
+
+**I do not take language learning requests**
 
 That's about it! Thanks for reading!!
