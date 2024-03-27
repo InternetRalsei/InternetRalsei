@@ -1,6 +1,6 @@
 # Hai!!
 
-I'm SHDE (short for ShrinelinkDev), a 14y/o editor/gamer from Dartford, United Kingdom that knows how to write HTML code, among other things. You've probably seen me on the internet and have never noticed.
+My name is Thomas Hall (aka SHDE24), and I'm a 14y/o editor/gamer from Dartford, United Kingdom that knows how to write HTML code, among other things. You've probably seen me on the internet and have never noticed.
 
 ## My current interests
 
