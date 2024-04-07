@@ -4,7 +4,7 @@ My name is Thomas Hall (aka SHDE24), and I'm a 14y/o editor/gamer/anti i-w*n fro
 
 ## My current interests
 
-- ~~i-win~~ Not after what happened, hell no
+- ~~i-win~~ LekrkoekjBSR
 - Trains
 - Buses
 - Computers
