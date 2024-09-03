@@ -1,6 +1,10 @@
 # Hai!!
 
-My name is Thomas Hall (aka SHDE24), and I'm a 14y/o editor/gamer/anti i-w*n/Pro CGCristi/LekrkoekjBSR fan from Dartford, United Kingdom that knows how to write HTML code, among other things. You've probably seen me on the internet and have never noticed.
+My name is Thomas Hall (aka Ralzitech, ShrinelinkXD), and I'm a 15y/o editor/gamer/anti i-w*n/Pro CGCristi/LekrkoekjBSR fan from Dartford, United Kingdom that knows how to write HTML code, among other things. You've probably seen me on the internet and have never noticed.
+
+## Explaining my current GitHub display name
+
+If you've checked my profile itself, you may have seen that my displayname has changed to "Ralzi | unblock me i-win you salty ass motherfcker". The reason being is that the popular YouTuber known as i-win has blocked me on everything over a bio change (which is now only visible here on GitHub). I'm also temporarily using her profile photo just to mess with her a little bit, but I might change this later on.
 
 ## My current interests
 
