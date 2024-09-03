@@ -27,7 +27,7 @@ If you need a full version of what I'm trying to say, ask me.
 
 ## Languages I can speak
 
-English (UK)(Native): 100%
+English (UK)(Native/Reccomended): 100%
 
 German (DE): 25-30% <- THIS IS THE LANGUAGE I USE ON MY DEVICES
 
