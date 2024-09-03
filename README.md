@@ -23,7 +23,9 @@ If you need a full version of what I'm trying to say, ask me.
 
 ## Socials?
 
-[You can find my social media here](https://shrinelinkdev.wixsite.com/site/en)
+[You can find my social media here](https://shrinelinkdev.wixsite.com/site/en) 
+
+I've also listed a few socials on my profile
 
 ## Languages I can speak
 
