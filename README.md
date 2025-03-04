@@ -1,6 +1,6 @@
 # Hai!!
 
-My name is Thomas Hall (aka Ralzitech/ShrinelinkXD), and I'm a 15y/o editor/gamer/anti i-w*n/LekrkoekjBSR fan from Greenhithe, United Kingdom that knows how to write HTML code, among other things. You've probably seen me on the internet and have never noticed.
+My name is Thomas Hall (aka Ralzitech/ShrinelinkXD), and I'm a 15y/o editor/gamer/anti i-w*n/LekrkoekjBSR fan, hailing from Greenhithe, United Kingdom that knows how to write HTML code, among other things. You've probably seen me on the internet and have never even noticed.
 
 ## My current interests
 
@@ -19,9 +19,7 @@ If you need a full version of what I'm trying to say, ask me.
 
 ## Socials?
 
-[You can find my social media here](https://ralzitech.wixsite.com/home) 
-
-I've also listed a few socials on my profile
+[You can find my social media here.](https://ralzitech.wixsite.com/home) I've also listed a few socials on my profile!
 
 ## Languages I can speak
 
