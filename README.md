@@ -9,6 +9,9 @@ My name is Thomas Hall (aka RalziTech), and I'm a 15y/o editor/gamer/anti i-w*n/
 - Buses
 - Computers
 
+## My current projects
+- [WixView - Making Wix websites a breeze!](https://github.com/ralzitech/wixview)
+
 ## Contact
 
 If you do wish to contact me, keep in mind that I use :3, <3, and :) often, and I try to keep my responses as short as possible. 
