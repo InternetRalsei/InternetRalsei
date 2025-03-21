@@ -11,15 +11,15 @@ My name is Thomas Hall (aka RalziTech), and I'm a 15y/o editor/gamer/anti i-w*n/
 
 ## My current projects
 - [WixView - Making Wix websites a breeze!](https://github.com/ralzitech/wixview)
-  - WixView is a project which I started with [Jibbosh](https://github.com/jibbosh) that allows users to view Wix websites without the annoying "This website was created with Wix" banner at the top of the screen. I started this project in March 2025, and is on it's first release 
+  - WixView is a project which I started with [Jibbosh](https://github.com/jibboshh) that allows users to view Wix websites without the annoying "This website was created with Wix" banner at the top of the screen. We started this project in March 2025, and is on it's first release 
 
 ## Contact
 
 If you do wish to contact me, keep in mind that I use :3, <3, and :) often, and I try to keep my responses as short as possible. 
-If you need a full version of what I'm trying to say, ask me.
+If you need a full version of what I'm trying to say, please say it straight up.
 
 - Discord: RalziTech
-- Email: RalziTech@gmail.com
+- Email: RalziTech@zsh.one
 
 ## Socials?
 
