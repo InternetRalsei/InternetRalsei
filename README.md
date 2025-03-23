@@ -1,13 +1,19 @@
 # Hai!!
 
-My name is Thomas Hall (aka RalziTech), and I'm a 15y/o editor/gamer/anti i-w*n/LekrkoekjBSR fan, hailing from Greenhithe, United Kingdom that knows how to write HTML code, among other things. You've probably seen me on the internet and have never even noticed.
+My name is Thomas Hall (aka RalziTech), and I'm a 15y/o editor/gamer, hailing from Greenhithe, United Kingdom that knows how to write HTML code, among other things. You've probably seen me on the internet and have never even noticed.
 
 ## My current interests
 
-- ~~i-win~~ LekrkoekjBSR
 - Trains
 - Buses
 - Computers
+- The history of TV in the UK
+- Artifyber
+
+## Let the past be the past
+If you haven't heard already, me and i-win have made up for past dramas. As a result, all of the content that I am aware of that mentions i-win in a negative way will be removed, and I'm sure that i-win will tell me what I need to remove. 
+
+[Please look at this Google Document for more information on this](https://docs.google.com/document/d/1ifsCplgINhk1G0cjWWkx6tVDfbwXhSRvsVVypGXQa-M/edit?usp=sharing)
 
 ## My current projects
 - [WixView - Making Wix websites a breeze!](https://github.com/ralzitech/wixview)
