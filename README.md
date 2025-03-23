@@ -25,11 +25,11 @@ If you do wish to contact me, keep in mind that I use :3, <3, and :) often, and 
 If you need a full version of what I'm trying to say, please say it straight up.
 
 - Discord: RalziTech
-- Email: RalziTech@zsh.one
+- Email: RalziTech@zsh.ONE
 
 ## Socials?
 
-[You can find my social media here.](https://ralzitech.wixsite.com/home) I've also listed a few socials on my profile!
+[You can find my social media here.](https://ralzi.jibbosh.com/) I've also listed a few socials on my profile!
 
 ## Languages I can speak
 
