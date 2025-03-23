@@ -25,6 +25,7 @@ If you do wish to contact me, keep in mind that I use :3, <3, and :) often, and 
 If you need a full version of what I'm trying to say, please say it straight up.
 
 - Discord: RalziTech
+- Discord (ALT): RalziYTP
 - Email: RalziTech@zsh.ONE
 
 ## Socials?
