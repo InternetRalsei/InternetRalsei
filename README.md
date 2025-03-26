@@ -1,6 +1,6 @@
 # Hai!!
 
-My name is Thomas Hall (aka RalziTech), and I'm a 15y/o editor/gamer, hailing from Greenhithe, United Kingdom that knows how to write HTML code, among other things. You've probably seen me on the internet and have never even noticed.
+My name is Thomas Hall (aka RalziTech), and I'm a 15y/o editor, gamer and computer programmer from Greenhithe, United Kingdom that knows how to write HTML and Python code, among other things. You've probably seen me on the internet and have never even noticed.
 
 ## My current interests
 
@@ -17,7 +17,9 @@ If you haven't heard already, me and i-win have made up for past dramas. As a re
 
 ## My current projects
 - [WixView - Making Wix websites a breeze!](https://github.com/ralzitech/wixview)
-  - WixView is a project which I started with [Jibbosh](https://github.com/jibboshh) that allows users to view Wix websites without the annoying "This website was created with Wix" banner at the top of the screen. We started this project in March 2025, and is on it's first release 
+  - WixView is a project which I started with [Jibbosh](https://github.com/jibboshh) that allows users to view Wix websites without the annoying "This website was created with Wix" banner at the top of the screen. We started this project in March 2025, and is on it's first release
+- [win31](https://github.com/ralzitech/win31)
+  - win31 is essentially a webwrapper for PCJs' Windows 3.1 Emulator. [It is available for you to try in your browser right now!](https://ralzitech.com/win31)
 
 ## Contact
 
@@ -27,10 +29,11 @@ If you need a full version of what I'm trying to say, please say it straight up.
 - Discord: RalziTech
 - Discord (ALT): RalziYTP
 - Email: RalziTech@zsh.ONE
+- WhatsApp: https://wa.me/+447842378513
 
 ## Socials?
 
-[You can find my social media here.](https://ralzi.jibbosh.com/) I've also listed a few socials on my profile!
+[You can find my social media here.](https://ralzitech.com/) I've also listed a few socials on my profile!
 
 ## Languages I can speak
 
