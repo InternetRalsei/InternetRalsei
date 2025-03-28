@@ -19,7 +19,7 @@ If you haven't heard already, me and i-win have made up for past dramas. As a re
 - [WixView - Making Wix websites a breeze!](https://github.com/ralzitech/wixview)
   - WixView is a project which I started with [Jibbosh](https://github.com/jibboshh) that allows users to view Wix websites without the annoying "This website was created with Wix" banner at the top of the screen. We started this project in March 2025, and is on it's first release
 - [win31](https://github.com/ralzitech/win31)
-  - win31 is essentially a webwrapper for PCJs' Windows 3.1 Emulator. [It is available for you to try in your browser right now!](https://ralzitech.com/win31)
+  - win31 is essentially a webwrapper for PCJs' Windows 3.1 Emulator. [It is available for you to try in your browser right now, provided that it is working](https://ralzitech.com/win31)
 
 ## Contact
 
