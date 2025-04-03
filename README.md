@@ -12,6 +12,7 @@ My name is Thomas Hall (aka RalziTech), and I'm a 15y/o editor, gamer and comput
 - Computers
 - The history of TV in the UK
 - Artifyber
+- Cherry Hencefox
 
 ## Let the past be the past and the past before that further in the past and let the further past be further in the past and let the further further past be in the further further further past and so on and so forth
 If you haven't heard already, me and i-win have made up for past dramas. As a result, all of the content that I am aware of that mentions i-win in a negative way will be removed, and I'm sure that i-win will tell me what I need to remove. 
