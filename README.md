@@ -34,7 +34,7 @@ If you need a full version of what I'm trying to say, please say it straight up.
 
 - Discord: RalziTech
 - Discord (ALT): RalziYTP
-- Email: RalziTech@zsh.ONE
+- Email: thomas@freakcircle.xyz
 - WhatsApp: https://wa.me/+447842378513
 
 ## Socials?
