@@ -2,8 +2,13 @@
 
 My name is Thomas Hall (aka RalziTech), and I'm a 15y/o editor, gamer and computer programmer from Greenhithe, United Kingdom that knows how to write HTML and Python code, among other things. You've probably seen me on the internet and have never even noticed.
 
-## GitHub Stats because I thought they'd be cool (going for 1000 commits by the end of 2025)
-[![RT GitHub](https://github-readme-stats.vercel.app/api?username=RalziTech)](https://github.com/ralzitech)
+## NEW: Financially support me!
+Hey there! Recently, I've fallen on a lot of hard times from being the oldest in my family, these being
+- Post-GCSE stress
+- Constant instances of being shouted at by my parents for no reason
+- Having next to no time to myself on weekends
+
+As such, I have opened donations over on my new Ko-fi account, over on ko-fi.com/internetralsei. You are not required to donate, but it would mean the world to me if you could! <3
 
 ## My current interests
 
