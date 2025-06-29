@@ -8,7 +8,7 @@ Hey there! Recently, I've fallen on a lot of hard times from being the oldest in
 - Constant instances of being shouted at by my parents for no reason
 - Having next to no time to myself on weekends
 
-As such, I have opened donations over on my new Ko-fi account, over on ko-fi.com/internetralsei. You are not required to donate, but it would mean the world to me if you could! <3
+As such, I have opened donations over on my new Ko-fi account, over on https://ko-fi.com/internetralsei. You are not required to donate, but it would mean the world to me if you could! <3
 
 ## My current interests
 
