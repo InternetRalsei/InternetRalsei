@@ -47,7 +47,7 @@ If you need a full version of what I'm trying to say, please say it straight up.
 
 English (UK)(Native/Reccomended): 100%
 
-German (DE): 40% *Fun fact: Igot a 7 in my German GCSE, exceeding the 6 that I was originally slated to get!*
+German (DE): 65% *Fun fact: I got a 7 in my German GCSE, exceeding the 6 that I was originally slated to get!*
 
 **I do not take language learning requests. I've already quit Duolingo as it is**
 
