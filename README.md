@@ -26,20 +26,17 @@ If you haven't heard already, me and i-win have made up for past dramas. As a re
 
 ## My current projects
 - [WixView - Making Wix websites a breeze!](https://github.com/ralzitech/wixview)
-  - WixView is a project which I started with [Jibbosh](https://github.com/jibboshh) that allows users to view Wix websites without the annoying "This website was created with Wix" banner at the top of the screen. We started this project in March 2025, and is on it's first release
-- [win31](https://github.com/ralzitech/win31)
-  - win31 is essentially a webwrapper for PCJs' Windows 3.1 Emulator. [It is available for you to try in your browser right now, provided that it is working](https://ralzitech.com/win31)
-- [Acht Tausend Mause (Eight Thousand Mice)](https://github.com/ralzitech/achttausendmause)
-  - Acht Tausend Mause (which is German for Eight Thousand Mice) is a game in which you select the right amount of mice to reach eight thousand. It's a fairly simple game, but one where you need to use your brain to add up to eight thousand
+  - WixView is a project which I started with [Jibbosh](https://github.com/jibboshh) that allows users to view Wix websites without the annoying "This website was created with Wix" banner at the top of the screen. We started this project in March 2025, and is on it's first release (I really do need to return to it however x_x)
+ 
 
 ## Contact
 
 If you do wish to contact me, keep in mind that I use :3, <3, and :) often, and I try to keep my responses as short as possible. 
 If you need a full version of what I'm trying to say, please say it straight up.
 
-- Discord: RalziTech
-- Discord (ALT): RalziYTP
-- Email: me@ralzitech.com
+- Discord: internetralsei
+- Discord (ALT): faileastbridge492
+- Email: hello@internetralsei.xyz
 - WhatsApp: https://wa.me/+447842378513
 
 ## Socials?
@@ -50,7 +47,7 @@ If you need a full version of what I'm trying to say, please say it straight up.
 
 English (UK)(Native/Reccomended): 100%
 
-German (DE): 40% *Fun fact: I'm slated to get a 6+ GCSE grade for GCSE German!*
+German (DE): 40% *Fun fact: Igot a 7 in my German GCSE, exceeding the 6 that I was originally slated to get!*
 
 **I do not take language learning requests. I've already quit Duolingo as it is**
 
