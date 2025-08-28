@@ -1,6 +1,6 @@
 # Hai!!
 
-My name is Thomas Hall (aka InternetRalsei), and I'm a 15y/o editor, gamer and computer programmer from Greenhithe, United Kingdom that knows how to write HTML and Python code, among other things. You've probably seen me on the internet and have never even noticed.
+My name is Thomas Hall (aka InternetRalsei), and I'm a 16y/o editor, gamer and computer programmer from Greenhithe, United Kingdom that knows how to write HTML and Python code, among other things. You've probably seen me on the internet and have never even noticed.
 
 ## NEW: Financially support me!
 Hey there! Recently, I've fallen on a lot of hard times from being the oldest in my family, these being
